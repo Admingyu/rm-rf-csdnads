@@ -20,6 +20,7 @@ $(".pulllog-box").remove();
 
 //右侧广告
 $("#pic_container").remove();
+$(".pic_container").remove();
 $("#iframeu*").remove();
 
 //腹部广告
