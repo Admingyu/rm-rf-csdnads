@@ -34,6 +34,7 @@ $(".pulllog-box").remove();
 
 $(document).ready(function(){
   $("iframe[id^='iframeu']").remove()
+  $("li[class^='right-item _paradigm_S']").remove()
 });
 
 
